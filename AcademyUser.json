@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Ngo Ngoc Vinh",
+        "email": "vinhnn@pixelz.com",
+        "account": "vinhNN",
+        "password": "acbd123*"
+    },
+    {
+        "id": 2,
+        "name": "Le Hong Vuong",
+        "email": "vuonglh@pixelz.com",
+        "account": "VuongLH",
+        "password": "acbd123*"
+    },
+    {
+        "id": 3,
+        "name": "Trang Huyen Trang",
+        "email": "trangth@pixelz.com",
+        "account": "trangTH",
+        "password": "acbd123*"
+    },
+    {
+        "id": 4,
+        "name": "Bui Thi Kim Anh",
+        "email": "anhbtk@pixelz.com",
+        "account": "AnhBTK",
+        "password": "acbd123*"
+    },
+    {
+        "id": 5,
+        "name": "Le Thi Phuong Thao",
+        "email": "thaoltp@pixelz.com",
+        "account": "ThaoLTP",
+        "password": "acbd123*"
+    },
+    {
+        "id": 6,
+        "name": "Tran Thi Ha",
+        "email": "hatt@pixelz.com",
+        "account": "HaTT",
+        "password": "acbd123*"
+    },
+    {
+        "id": 7,
+        "name": "Tran Thi Dung",
+        "email": "dungtt@pixelz.com",
+        "account": "DungTT",
+        "password": "acbd123*"
+    },
+    {
+        "id": 8,
+        "name": "Nong Duc Luan",
+        "email": "luannd@pixelz.com",
+        "account": "LuanND",
+        "password": "acbd123*"
+    }
+]
