@@ -1,4 +1,4 @@
-[
+let allUsers = [
     {
         id: 1,
         name: "Ngo Ngoc Vinh",
